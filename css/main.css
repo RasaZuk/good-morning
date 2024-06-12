@@ -1,0 +1,23 @@
+body {
+    display: inline-block;
+    width: 100px;
+}
+
+aside {
+    background-color: pink;
+    width: 200px;
+    height: 500px;
+    display: inline-block;
+
+
+}
+div {
+    display: inline-block;
+    width: 350px;
+    
+}
+
+p {
+    display: inline-block;
+    margin: 30px;
+}
