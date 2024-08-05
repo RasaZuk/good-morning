@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/50-grupe-good_morning/
+Site published at: rasazuk.github.io/good_morning/
 
 Design: [Good_morning](https://dribbble.com/shots/13751737-Home-Navigation-Exploration)
 
